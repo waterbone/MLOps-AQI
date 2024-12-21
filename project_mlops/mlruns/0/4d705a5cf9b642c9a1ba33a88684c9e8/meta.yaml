@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Windows/Documents/TUGAS%20KULIAH/SEMESTER%207/Machine%20Learning%20Operations/project_mlops/mlruns/0/4d705a5cf9b642c9a1ba33a88684c9e8/artifacts
+end_time: 1734686507189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d705a5cf9b642c9a1ba33a88684c9e8
+run_name: stately-hound-475
+run_uuid: 4d705a5cf9b642c9a1ba33a88684c9e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734686502749
+status: 3
+tags: []
+user_id: Windows
